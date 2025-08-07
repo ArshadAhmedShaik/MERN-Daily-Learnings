@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    text-decoration: red wavy underline;
+    text-decoration-style: dotted;
+    letter-spacing: 5px; /*in pixels*/
+}
+
+p {
+  text-align: justify;
+  font-weight: normal;   /*font weight ranges from 100 to 900*/
+  line-height: 1.9;  /*1.2 time normal*/
+  font-size: 25px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+a {
+  text-decoration: wavy underline;
+  color: red;
+
+}
+
+/* pixels is absolute unit so can't
+ use it for responsive websites */
